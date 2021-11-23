@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompletelyStableApp.Console
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompletelyStableApp.Lib", "CompletelyStableApp.Lib\CompletelyStableApp.Lib.csproj", "{E83CE10E-6942-4002-A792-F3D7133C573C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompletelyStableApp.Functions", "CompletelyStableApp.Functions\CompletelyStableApp.Functions.csproj", "{396418CB-6F97-467D-8976-63B91F8760E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompletelyStableApp.Functions", "CompletelyStableApp.Functions\CompletelyStableApp.Functions.csproj", "{B6F878BD-30A0-49E1-95F6-C8CA1FA2AD66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{E83CE10E-6942-4002-A792-F3D7133C573C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E83CE10E-6942-4002-A792-F3D7133C573C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E83CE10E-6942-4002-A792-F3D7133C573C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{396418CB-6F97-467D-8976-63B91F8760E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{396418CB-6F97-467D-8976-63B91F8760E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{396418CB-6F97-467D-8976-63B91F8760E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{396418CB-6F97-467D-8976-63B91F8760E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F878BD-30A0-49E1-95F6-C8CA1FA2AD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F878BD-30A0-49E1-95F6-C8CA1FA2AD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F878BD-30A0-49E1-95F6-C8CA1FA2AD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F878BD-30A0-49E1-95F6-C8CA1FA2AD66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
