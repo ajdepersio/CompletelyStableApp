@@ -18,10 +18,11 @@ namespace CompletelyStableApp.Functions
 
             var number = 1;
             var end = DateTime.Now.AddMilliseconds(duration);
-            
+            var primeNumberFinder = new PrimeNumberFinder();
+
             while (DateTime.Now < end)
             {
-                var nextPrime = PrimeNumberFinder.FindNextPrimeNumber(number);
+                var nextPrime = primeNumberFinder.FindNextPrimeNumber(number);
                 logger.LogInformation(nextPrime.ToString());
                 number = nextPrime + 1;
             }
